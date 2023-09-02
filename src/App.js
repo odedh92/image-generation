@@ -12,7 +12,14 @@ const App = () => {
   const supriseOptions = [
     'A Golden retriever eating melon',
     'A Matisse-style shark on the telephone',
-    'A pineapple sunbathing on an island'
+    'A pineapple sunbathing on an island',
+    'Mystical Forest at Dusk',
+    'Steampunk Cityscape',
+    'Underwater Alien World',
+    'Fantasy Castle in the Clouds',
+    'Robotic Wildlife',
+    'Post-Apocalyptic City Ruins',
+    'Ancient Civilization on Mars'
   ];
   const surpriseMe = () => {
     setImages(null)
